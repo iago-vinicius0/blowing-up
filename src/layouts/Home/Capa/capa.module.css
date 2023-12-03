@@ -1,0 +1,37 @@
+.container {
+    width: 100%;
+    height: 600px;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../../../images/backgrounds/home.jpg');
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+.box {
+    max-width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.firstrow {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+}
+.title {
+    font-size: 20px;
+}
+.secondrow {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: right;
+}
+.text {
+    font-size: 20px;
+    font-weight: bold;
+}
+.logo {
+    width: 300px;
+    height: 90px;
+}

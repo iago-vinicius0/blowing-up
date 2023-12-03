@@ -1,0 +1,14 @@
+.buttonCompra {
+    width: 300px;
+    background-color: #060;
+    color: #fff;
+    font-size: 18px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 5px;
+    height: 35px;
+    font-weight: bold;
+}
+.fullWidth {
+    width: 100%;
+}
